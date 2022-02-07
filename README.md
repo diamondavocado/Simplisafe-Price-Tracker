@@ -12,8 +12,8 @@ Prices are as listed on their website and include any discounts offered.
 # Notes
 
 * Simplisafe's system **does NOT send alerts to your phone** unless you're subscribed to the *Pro Premium* plan at £19.99 per month. 
-* An internet connection is required to set up the system, even if you don't plan on using it as a "smart" system
-* If you are not subscribed to any of their plans, and only use the system as a traditional "dumb" alarm, the system will still collect data and usage metrics which will be sent to Simplisafe
+* An internet connection is required to set up the system, even if you don't plan on using it as a "smart" system.
+* If you are not subscribed to any of their plans, and only use the system as a traditional "dumb" alarm, the system will still collect data and usage metrics which will be sent to Simplisafe.
 
 Not so smart now, is it?
 
