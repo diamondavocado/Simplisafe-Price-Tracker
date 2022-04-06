@@ -19,12 +19,13 @@ Not so smart now, is it?
 
 # Prices
 
-| System         | Jan 22                     | Feb 22                     | Mar 22     |
-| -------------- | ----------                 | ----------                 | ---------- |
-| **Notes:**     | "Private sale / Ends soon" | "Private sale / Ends soon" | No sale(!) |
-| The Bamburgh   | £353.88                    | £353.88                    | £352.72    |
-| The Windsor    | £303.87                    | £303.87                    | £317.71    |
-| The Warwick    | £213.90                    | £213.90                    | £254.73    |
-| The Essentials | £158.94                    | £158.94                    | £216.26    |
-| The Starter    | £128.96                    | £128.96                    | £195.27    |
-| The Foundation | £98.97                     | £98.97                     | £174.28    |
+| System         | Jan 22                     | Feb 22                     | Mar 22     | Apr 22                         |
+| -------------- | ----------                 | ----------                 | ---------- | ------                         |
+| **Notes:**     | "Private sale / Ends soon" | "Private sale / Ends soon" | No sale(!) | "Flash sale! Ends Monday!" 🤣🤣🤣 |
+| The Bamburgh   | £353.88                    | £353.88                    | £352.72    | £368.88                        |
+| The Windsor    | £303.87                    | £303.87                    | £317.71    | £318.87                        |
+| The Warwick    | £213.90                    | £213.90                    | £254.73    | £228.90                        |
+| The Essentials | £158.94                    | £158.94                    | £216.26    | £173.94                        |
+| The Starter    | £128.96                    | £128.96                    | £195.27    | £143.96                        |
+| The Foundation | £98.97                     | £98.97                     | £174.28    | £113.97                        |
+
