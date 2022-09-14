@@ -1,5 +1,6 @@
 # Simplisafe-Price-Tracker
-Manual price monitoring for SimpliSafe.co.uk
+
+Price monitoring for SimpliSafe.co.uk
 
 SimpliSafe.co.uk sells so-called "smart" home security equipment.
 
@@ -12,10 +13,11 @@ Prices are as listed on their website and include any discounts offered.
 # Notes
 
 * Simplisafe's system **does NOT send alerts to your phone** unless you're subscribed to the *Pro Premium* plan at £19.99 per month. 
+* Simplisafe is a proprietary, closed-source system.
 * An internet connection is required to set up the system, even if you don't plan on using it as a "smart" system.
 * If you are not subscribed to any of their plans, and only use the system as a traditional "dumb" alarm, the system will still collect data and usage metrics which will be sent to Simplisafe.
 
-Not so smart now, is it?
+Not quite so smart now, is it?
 
 # Prices
 
