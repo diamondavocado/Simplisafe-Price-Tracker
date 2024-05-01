@@ -6,11 +6,11 @@ SimpliSafe.co.uk sells so-called "smart" home security equipment.
 
 It seems to constantly advertise some kind of special offer or "private sale" (ironically named since it's available to everyone).
 
-I don't trust slick marketing so I decided to keep track of SimpliSafe's prices.
+I don't trust slick marketing so I decided to keep track of SimpliSafe's prices so you can see what they were in the past.
 
 Prices are as listed on their website and include any discounts offered.
 
-I hope this price history helps you be aware of their questionable marketing tactics.
+I hope seeing these historical prices helps you be aware of their questionable marketing tactics.
 
 # Notes
 
