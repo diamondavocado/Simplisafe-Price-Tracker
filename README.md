@@ -1,6 +1,6 @@
-# Simplisafe-Price-Tracker
+# Simplisafe Price Tracker
 
-Price monitoring for SimpliSafe.co.uk
+Price monitoring / price history for SimpliSafe.co.uk
 
 SimpliSafe.co.uk sells so-called "smart" home security equipment.
 
@@ -9,6 +9,8 @@ It seems to constantly advertise some kind of special offer or "private sale" (i
 I don't trust slick marketing so I decided to keep track of SimpliSafe's prices.
 
 Prices are as listed on their website and include any discounts offered.
+
+I hope this price history helps you be aware of their questionable marketing tactics.
 
 # Notes
 
